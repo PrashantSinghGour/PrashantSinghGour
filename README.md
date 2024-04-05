@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Frontend Developer with some backend capabilites.
+I'm Frontend Developer😃;
 
 [Stalkbiltz Projects](https://stackblitz.com/@PrashantSinghGour)
 <!--
